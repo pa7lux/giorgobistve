@@ -1,0 +1,74 @@
+{
+  "songs": [
+    {
+      "id": "alilo",
+      "title": "ალილო",
+      "titleLatin": "Alilo",
+      "description": "Traditional Georgian Christmas carol",
+      "file": "alilo.md"
+    },
+    {
+      "id": "giorgobistve",
+      "title": "გიორგობისთვე",
+      "titleLatin": "Giorgobistve",
+      "description": "A folk song about the month of St. George",
+      "file": "giorgobistve.md"
+    },
+    {
+      "id": "me_var_da_chemi_nabadi",
+      "title": "მე ვარ და ჩემი ნაბადი",
+      "titleLatin": "Me Var da Chemi Nabadi",
+      "description": "A traditional Georgian folk song about a person and their nabadi (felt cloak)",
+      "file": "me_var_da_chemi_nabadi.md"
+    },
+    {
+      "id": "batonebo",
+      "title": "ბატონებო",
+      "titleLatin": "Batonebo",
+      "description": "A traditional Georgian folk song about batonebi (folk deities)",
+      "file": "batonebo.md"
+    },
+    {
+      "id": "aka_si_re_kisho",
+      "title": "აკა სი რე ქიშო",
+      "titleLatin": "Aka Si Re Kisho",
+      "description": "A traditional Megrelian folk song",
+      "file": "aka_si_re_kisho.md"
+    },
+    {
+      "id": "dala_kojas",
+      "title": "დალა კოჯას",
+      "titleLatin": "Dala Kojas",
+      "description": "A traditional Svan folk song about Dala mountain",
+      "file": "dala_kojas.md"
+    },
+    {
+      "id": "merisuli",
+      "title": "მერისული",
+      "titleLatin": "Merisuli",
+      "description": "A traditional Georgian folk song from the Merisi region",
+      "file": "merisuli.md"
+    },
+    {
+      "id": "me_aqauri_ara_var",
+      "title": "მე აქაური არა ვარ",
+      "titleLatin": "Me Aqauri Ara Var",
+      "description": "A humorous folk song from Imereti region",
+      "file": "me_aqauri_ara_var.md"
+    },
+    {
+      "id": "mravaljamier",
+      "title": "მრავალჟამიერ",
+      "titleLatin": "Mravaljamier",
+      "description": "A traditional Georgian toast song wishing long life and prosperity",
+      "file": "mravaljamier.md"
+    },
+    {
+      "id": "chela",
+      "title": "ჩელა",
+      "titleLatin": "Chela",
+      "description": "A traditional Megrelian lullaby",
+      "file": "chela.md"
+    }
+  ]
+}
