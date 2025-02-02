@@ -69,13 +69,6 @@
       "titleLatin": "Chela",
       "description": "A traditional Megrelian lullaby",
       "file": "chela.md"
-    },
-    {
-      "id": "test",
-      "title": "ჩელა",
-      "titleLatin": "Test",
-      "description": "A traditional Test Test",
-      "file": "test.md"
     }
   ]
 }
