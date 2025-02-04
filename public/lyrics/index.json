@@ -69,6 +69,13 @@
       "titleLatin": "Chela",
       "description": "A traditional Megrelian lullaby",
       "file": "chela.md"
+    },
+    {
+      "id": "shen_khar_venakhi",
+      "title": "შენ ხარ ვენახი",
+      "titleLatin": "Shen Khar Venakhi",
+      "description": "A medieval Georgian hymn. It is dedicated to Georgia and the patronage of the Virgin Mary; it is also a prayer of praise to Mary in the Georgian Orthodox Church.",
+      "file": "shen_khar_venakhi.md"
     }
   ]
 }
