@@ -76,6 +76,13 @@
       "titleLatin": "Shen Khar Venakhi",
       "description": "A medieval Georgian hymn. It is dedicated to Georgia and the patronage of the Virgin Mary; it is also a prayer of praise to Mary in the Georgian Orthodox Church.",
       "file": "shen_khar_venakhi.md"
+    },
+    {
+      "id": "jvarsa_shensa",
+      "title": "ჯვარსა შენსა",
+      "titleLatin": "Jvarsa Shensa",
+      "description": "",
+      "file": "jvarsa_shensa.md"
     }
   ]
 }
