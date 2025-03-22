@@ -22,7 +22,7 @@ alva suneli samotxes amosuli
 
 ghmertman shegamko vervina gjobs qebuli
 
-da tavit tvisit mze khar gabrts’q’invebuli
+da tavit tvisit mze khar da gabrts’q’invebuli
 
 # Performance
 
