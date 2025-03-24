@@ -83,6 +83,41 @@
       "titleLatin": "Jvarsa Shensa",
       "description": "",
       "file": "jvarsa_shensa.md"
+    },
+    {
+      "id": "gazapxuli",
+      "title": "გაზაფხული",
+      "titleLatin": "Gazapxuli",
+      "description": "",
+      "file": "gazapxuli.md"
+    },
+    {
+      "id": "aghdgomasa_shensa",
+      "title": "აღდგომასა შენსა",
+      "titleLatin": "Aghdgomasa Shensa",
+      "description": "",
+      "file": "aghdgomasa_shensa.md"
+    },
+    {
+      "id": "mravaljamier_erekles",
+      "title": "მრავალჟამიერი",
+      "titleLatin": "Mravaljamier Erekles Version",
+      "description": "A traditional Georgian toast song wishing long life and prosperity. Erekles version.",
+      "file": "mravaljamier_erekles.md"
+    },
+    {
+      "id": "qriste_aghdga_svanuri",
+      "title": "Ქრისტე აღსდგა Svanuri",
+      "titleLatin": "Qriste Aghdga Svanuri",
+      "description": "",
+      "file": "qriste_aghdga_svanuri.md"
+    },
+    {
+      "id": "qriste_aghdga_lechkhumi",
+      "title": "Ქრისტე აღსდგა Lechkhumi",
+      "titleLatin": "Qriste Aghdga Lechkhumi",
+      "description": "",
+      "file": "qriste_aghdga_lechkhumi.md"
     }
   ]
 }
