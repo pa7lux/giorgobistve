@@ -8,8 +8,8 @@
 
 qri-iste aghdga mkvdretit (solo only for the first time)
 sikvdilita sikvdilisa-a da-amtrgu-unve-eli
-da sapla, vebis shina-ata
-tskho-ovre-ebis mimnitchebeli
+da sapla-a, vebis shina-ata
+tskho-ovre-ebis mimnitchebeli-i
 
 (Repeat whole song, but first string with the choir)
 
