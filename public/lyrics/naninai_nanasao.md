@@ -25,7 +25,7 @@
 
 (b = bas)
 
-solo- naninai nanasao-(+b)-o
+solo- naninai nanasao
 
 naninai nanasao nanaaa
 naninai nanasaoo
