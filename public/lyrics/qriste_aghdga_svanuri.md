@@ -25,6 +25,11 @@ da sapla-a, vebis shina-ata
 tskho-ovre-ebis mimnitchebeli-i
 
 
+qri-iste aghdga mkvdretit (first+second for the second time)
+(repeat rest of the song)
+
+qri-iste aghdga mkvdretit (all for the third time)
+(repeat rest of the song)
 
 # Performance
 
