@@ -18,7 +18,7 @@ sikvdilita sikvdilisa-a da-amtrgu-unve-eli
 da sapla-a, vebis shina-ata
 tskho-ovre-ebis mimnitchebeli-i
 
-aghdga mkvdretit qri-iste
+aghdga qriste mkvdretit 
 
 sikvdilita sikvdilisa-a da-amtrgu-unve-eli
 da sapla-a, vebis shina-ata
