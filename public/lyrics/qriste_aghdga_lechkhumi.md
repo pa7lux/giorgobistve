@@ -7,11 +7,23 @@
 # Transliteration (ლათინური)
 
 qri-iste aghdga mkvdretit (solo for the first time)
+
 sikvdilita sikvdilisa-a damtrgu-unve-eli
 da sapla-a, vebis shinata-a
 tskho-ovrebis mimnitchebeli-i
 
-(Repeat 3 times, for first string with the choir)
+qri-iste aghdga mkvdretit (no bass)
+
+sikvdilita sikvdilisa-a damtrgu-unve-eli
+da sapla-a, vebis shinata-a
+tskho-ovrebis mimnitchebeli-i
+
+aghdga qri-iste mkvdretit (choir)
+
+sikvdilita sikvdilisa-a damtrgu-unve-eli
+da sapla-a, vebis shinata-a
+tskho-ovrebis mimnitchebeli-i
+
 
 # Performance
 
