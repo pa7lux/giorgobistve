@@ -12,7 +12,7 @@ sikvdilita sikvdilisa-a damtrgu-unve-eli
 da sapla-a, vebis shinata-a
 tskho-ovrebis mimnitchebeli-i
 
-aghdga qri-iste mkvdretit (choir)
+aghdga qri-iste mkvdretit (no bass)
 
 
 
@@ -20,7 +20,7 @@ sikvdilita sikvdilisa-a damtrgu-unve-eli
 da sapla-a, vebis shinata-a
 tskho-ovrebis mimnitchebeli-i
 
-qri-iste aghdga mkvdretit (no bass)
+qri-iste aghdga mkvdretit (all)
 
 sikvdilita sikvdilisa-a damtrgu-unve-eli
 da sapla-a, vebis shinata-a
