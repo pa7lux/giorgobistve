@@ -15,7 +15,9 @@ da chventsa ghirs mq’ven kve-eq’anasa zeda
 tsmidit gulita didebad shenda.
 
 1st time — trio
+
 2nd time — 1 bass, +1 pers 1st and sec
+
 3nd time — all
 
 # Performance
