@@ -24,6 +24,8 @@ sikvdilita sikvdilisa-a damtrgu-unve-eli
 da sapla-a, vebis shinata-a
 tskho-ovrebis mimnitchebeli-i
 
+aghdga qriste mkvdretit (only for the second time)
+(repeat rest of the song)
 
 # Performance
 
