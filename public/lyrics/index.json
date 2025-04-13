@@ -118,6 +118,34 @@
       "titleLatin": "Qriste Aghdga Lechkhumi",
       "description": "",
       "file": "qriste_aghdga_lechkhumi.md"
+    },
+    {
+      "id": "gazapkhuli",
+      "title": "Ქრისტე აღსდგა Lechkhumi",
+      "titleLatin": "Gazapkhuli",
+      "description": "",
+      "file": "gazapkhuli.md"
+    },
+    {
+      "id": "naninai_nanasao",
+      "title": "ნანინაი ნანასაო",
+      "titleLatin": "Naninai Nanasao",
+      "description": "",
+      "file": "naninai_nanasao.md"
+    },
+    {
+      "id": "chiti",
+      "title": "ჩიტი",
+      "titleLatin": "Chiti",
+      "description": "",
+      "file": "chiti.md"
+    },
+    {
+      "id": "gogushika",
+      "title": "გოგუშიკა",
+      "titleLatin": "Gogushika",
+      "description": "",
+      "file": "gogushika.md"
     }
   ]
 }
