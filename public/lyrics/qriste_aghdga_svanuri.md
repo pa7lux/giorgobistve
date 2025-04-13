@@ -7,17 +7,24 @@
 # Transliteration (ლათინური)
 
 qri-iste aghdga mkvdretit (solo only for the first time)
+
 sikvdilita sikvdilisa-a da-amtrgu-unve-eli
 da sapla-a, vebis shina-ata
 tskho-ovre-ebis mimnitchebeli-i
 
-(Repeat whole song, but first string with the choir)
+aghdga mkvdretit qri-iste
 
-Сhanges the first string for the third time: 
+sikvdilita sikvdilisa-a da-amtrgu-unve-eli
+da sapla-a, vebis shina-ata
+tskho-ovre-ebis mimnitchebeli-i
 
-aghdga qri-iste mkvdretit
+qri-iste aghdga mkvdretit
 
-(The rest of the text is the same)
+sikvdilita sikvdilisa-a da-amtrgu-unve-eli
+da sapla-a, vebis shina-ata
+tskho-ovre-ebis mimnitchebeli-i
+
+
 
 # Performance
 
