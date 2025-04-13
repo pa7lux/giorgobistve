@@ -9,15 +9,15 @@
 
 # Transliteration (ლათინური)
 
-Mravaljamier (solo)
+Mravaljamier (solo) (at the end, bas: o-o-o)
 Mravaljamier
 Mravaljamier-jamier
 Mravaljamier
-ghmertma inebos (solo)
+ghmertma inebos (solo) (at the end, bas: o-o-o)
 ghmertma inebos
 ghmertma inebos-inebos
 tqveni sitsotskhle
-Mravaljamier (solo)
+Mravaljamier (solo) (at the end, bas: o-o-o)
 Mravaljamier
 Mravaljamier-jamier
 Mravaljamier
