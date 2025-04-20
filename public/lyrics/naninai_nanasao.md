@@ -23,8 +23,6 @@
 
 # Transliteration (ლათინური)
 
-(b = bas)
-
 solo- naninai nanasao
 
 naninai nanasao nanaaa
@@ -36,7 +34,7 @@ shig damtsoli brolisaoo
 es akvani lebanozi nanaaa
 shig damtsoli angeloziii
 
-solo- naninai nanaso-(+b)-o
+solo- naninai nanasа-o
 
 chemo neniko nenao nanaa
 istsavle chemi enaooo
