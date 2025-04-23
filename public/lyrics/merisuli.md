@@ -22,8 +22,8 @@
 
 # Transliteration (ლათინური)
 
-delis vovdelis vovdela  
-ovdelie-e nanina da o  
+(solo) delis vovdelis vovdela  
+(all) ovdelie-e nanina da o  
 
 ovorera rira vorera  
 ovdelie-e nanina da o (2)  
