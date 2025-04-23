@@ -6,30 +6,20 @@
 
 # Transliteration (ლათინური)
 
-qri-iste aghdga mkvdretit (solo only for the first time)
+qri-iste aghdga mkvdretit (solo only for the first time)  
+sikvdilita sikvdilisa-a da-amtrgu-unve-eli  
+da sapla-a, vebis shina-ata  
+tskho-ovre-ebis mimnitchebeli-i  
 
-sikvdilita sikvdilisa-a da-amtrgu-unve-eli
-da sapla-a, vebis shina-ata
-tskho-ovre-ebis mimnitchebeli-i
+qri-iste aghdga mkvdretit  
+sikvdilita sikvdilisa-a da-amtrgu-unve-eli  
+da sapla-a, vebis shina-ata  
+tskho-ovre-ebis mimnitchebeli-i  
 
-qri-iste aghdga mkvdretit
-
-sikvdilita sikvdilisa-a da-amtrgu-unve-eli
-da sapla-a, vebis shina-ata
-tskho-ovre-ebis mimnitchebeli-i
-
-aghdga qriste mkvdretit 
-
-sikvdilita sikvdilisa-a da-amtrgu-unve-eli
-da sapla-a, vebis shina-ata
-tskho-ovre-ebis mimnitchebeli-i
-
---
-qri-iste aghdga mkvdretit (first+second for the second time)
-(repeat rest of the song)
-
-qri-iste aghdga mkvdretit (all for the third time)
-(repeat rest of the song)
+aghdga qriste mkvdretit  
+sikvdilita sikvdilisa-a da-amtrgu-unve-eli  
+da sapla-a, vebis shina-ata  
+tskho-ovre-ebis mimnitchebeli-i  
 
 # Performance
 
