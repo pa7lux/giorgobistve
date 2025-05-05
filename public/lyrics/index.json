@@ -139,6 +139,13 @@
       "titleLatin": "Gogushika",
       "description": "",
       "file": "gogushika.md"
+    },
+    {
+      "id": "qochorai-damekarqa",
+      "title": "ქოჩორაი დამეკარქა",
+      "titleLatin": "qochorai damekarqa",
+      "description": "",
+      "file": "qochorai-damekarqa.md"
     }
   ]
 }
