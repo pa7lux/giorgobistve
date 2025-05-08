@@ -146,6 +146,13 @@
       "titleLatin": "qochorai damekarqa",
       "description": "",
       "file": "qochorai-damekarqa.md"
+    },
+    {
+      "id": "khemkhvaie",
+      "title": "ხემხვაიე",
+      "titleLatin": "Khemkhvaie",
+      "description": "",
+      "file": "khemkhvaie.md"
     }
   ]
 }
