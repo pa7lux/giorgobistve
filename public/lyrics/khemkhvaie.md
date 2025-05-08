@@ -22,7 +22,7 @@
 
 o
 orerai dila delivo deliavo da
-orerai nanina orerai nanina da
+orerai nanina orerai nanina da-e
 orio deliavo nanina
 odo odoia oooo
 
