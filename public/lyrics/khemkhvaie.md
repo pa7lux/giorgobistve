@@ -19,12 +19,15 @@
 ოჰოჰო
 
 # Transliteration (ლათინური)
+(b = бас)
+(b: вступаем на тон выше конца соло)
 
-o
+(solo)
+(all)o-o-o
 orerai dila delivo deliavo da
-orerai nanina orerai nanina da-e
+orerai nanina orerai nanina-da-a (b)e-e
 orio deliavo nanina
-odo odoia oooo
+odo odoia o-o-o-o
 
 khemkhvaie khvarieli
 dela ohoho
