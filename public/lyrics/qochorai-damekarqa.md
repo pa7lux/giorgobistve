@@ -1,4 +1,4 @@
-# ქოჩორაი დამეკარქა / qochorai damekarqa
+# ქოჩორაი დამეკარქა / Qochorai Damekarqa
 
 # Georgian (მეგრული)
 
@@ -24,7 +24,7 @@
 
 # Transliteration (ლათინური)
 
-(bas: немного звенеть)
+(bass: немного звенеть)
 
 (solo)qochorai damekarqa
 (all)deliav raninao 
