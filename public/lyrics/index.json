@@ -153,6 +153,13 @@
       "titleLatin": "Khemkhvaie",
       "description": "",
       "file": "khemkhvaie.md"
+    },
+    {
+      "id": "mravaljamier_guruli",
+      "title": "მრავალჟამიერ გურული",
+      "titleLatin": "Mravaljamier Guruli Trio ver",
+      "description": "",
+      "file": "mravaljamier_guruli.md"
     }
   ]
 }
