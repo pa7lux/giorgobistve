@@ -24,25 +24,35 @@
 
 # Transliteration (ლათინური)
 
-qochorai damekarqa  
-deliav raninao  
-uketesi qatmis gvari  
-deliav raninao  
+(bas: немного звенеть)
 
-daudzakhebdi morboda  
-deliav raninao  
-khelshi metchira kekali  
-deliav raninao  
+(solo)qochorai damekarqa
+(all)deliav raninao 
 
-ratskham ise chamiqrola  
-deliav raninao  
-ar gamagona karkali  
-deliav raninao  
+uketesi qatmis gvari
+deliav ranina-ao-o
+(repeat)
 
-misi ukarkalobita  
-deliav raninao  
-turam sheadzro barkali  
-deliav raninao  
+(solo)daudzakhebdi morboda
+(all)deliav raninao
+
+khelshi metchira kekali
+deliav ranina-ao-o
+(repeat)
+
+(solo)ratskham ise chamiqrola 
+(all)deliav raninao
+
+ar gamagona karkali 
+deliav ranina-ao-o
+(repeat)
+
+(solo)misi ukarkalobita
+(all)deliav raninao
+
+turam sheadzro barkali 
+deliav ranina-ao-o (бросаем)
+(repeat) 
 
 # Performance
 
