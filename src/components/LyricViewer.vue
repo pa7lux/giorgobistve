@@ -58,8 +58,8 @@ export default defineComponent({
 }
 
 .lyrics {
-  user-select: text !important;
-  -webkit-user-select: text !important;
+  user-select: text;
+  -webkit-user-select: text;
 }
 
 .lyrics.georgian {
