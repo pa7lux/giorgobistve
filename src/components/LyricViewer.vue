@@ -57,6 +57,11 @@ export default defineComponent({
   line-height: 1.6;
 }
 
+.lyrics {
+  user-select: text;
+  -webkit-user-select: text;
+}
+
 .lyrics.georgian {
   font-family: 'Noto Sans Georgian', sans-serif;
 }
