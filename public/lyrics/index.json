@@ -167,6 +167,13 @@
       "titleLatin": "Dzveleburi Ghighini Lechkhumi",
       "description": "",
       "file": "dzveleburi_ghighini_lechkhumi.md"
+    },
+    {
+      "id": "didi_khnidan",
+      "title": "დიდი ხნიდან",
+      "titleLatin": "Didi Khnidan",
+      "description": "",
+      "file": "didi_khnidan.md"
     }
   ]
 }
