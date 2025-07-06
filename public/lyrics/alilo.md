@@ -32,7 +32,7 @@
 
 # Transliteration
 
-solo: alilo da oi alilo da a o test
+solo: alilo da oi alilo da a o
 
 choir:
 qristes makharobelni vart
