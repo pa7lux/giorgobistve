@@ -82,12 +82,6 @@ export default defineComponent({
   margin-bottom: 0;
 }
 
-/* Style for solo/choir indicators */
-.lyrics :deep(p:first-child) {
-  font-weight: bold;
-  margin-bottom: 1rem;
-}
-
 .performance {
   display: flex;
   justify-content: center;
