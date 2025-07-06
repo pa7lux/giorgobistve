@@ -1,4 +1,4 @@
-# ჯვარსა შენსა / Jvarsa Shensa# 
+# ჯვარსა შენსა / Jvarsa Shensa 
 
 # Georgian (მეგრული)
 
@@ -14,5 +14,4 @@ da vadidebt
 
 # Performance
 
-<iframe width="720" height="1280" src="https://youtube.com/embed/lGbiLXBDtFs">
-</iframe>
+<iframe width="720" height="1280" src="https://youtube.com/embed/lGbiLXBDtFs"><br></iframe>
