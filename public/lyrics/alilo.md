@@ -1,4 +1,5 @@
 # Georgian
+
 სოლო: ალილო და ოი ალილო და ა ო…
 
 გუნდი:
@@ -30,6 +31,7 @@
 ქრისტე იშვა ბეთლემშინა ო.
 
 # Transliteration
+
 solo: alilo da oi alilo da a o
 
 choir:
