@@ -74,7 +74,8 @@ export class LyricsService {
         currentSection = 'transliteration';
       } else if (line.startsWith('# Performance')) {
         currentSection = 'performance';
-      } else if (line.trim()) {
+      } else if (currentSection) {
+        // Add the line (including empty lines) to preserve paragraph structure
         if (currentSection === 'georgian') {
           georgian += line + '\n';
         } else if (currentSection === 'transliteration') {
@@ -86,9 +87,30 @@ export class LyricsService {
     }
 
     return {
-      georgian: md.render(georgian.trim()),
-      transliteration: md.render(transliteration.trim()),
+      georgian: this.processLyrics(georgian.trim()),
+      transliteration: this.processLyrics(transliteration.trim()),
       performance: md.render(performance.trim())
     };
+  }
+
+  private processLyrics(lyrics: string): string {
+    // Split by double newlines to create paragraphs
+    const paragraphs = lyrics.split('\n\n').filter(p => p.trim());
+    
+    console.log('processLyrics called with', paragraphs.length, 'paragraphs');
+    
+    // Create HTML paragraphs directly to ensure proper structure
+    const processedParagraphs = paragraphs.map((paragraph, index) => {
+      const lines = paragraph.split('\n').filter(line => line.trim());
+      // Create HTML paragraph with line breaks
+      const content = lines.join('<br>\n');
+      const result = `<p>${content}</p>`;
+      console.log(`Paragraph ${index + 1}:`, result);
+      return result;
+    });
+    
+    const final = processedParagraphs.join('\n');
+    console.log('Final HTML output:', final);
+    return final;
   }
 }

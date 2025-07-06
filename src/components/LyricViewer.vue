@@ -52,7 +52,6 @@ export default defineComponent({
 <style scoped>
 .lyrics-container {
   padding: 1rem;
-  white-space: pre-wrap;
   font-size: 1.1rem;
   line-height: 1.6;
 }
@@ -68,6 +67,25 @@ export default defineComponent({
 
 .lyrics.latin {
   font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Paragraph styling for proper verse grouping */
+.lyrics :deep(p) {
+  margin: 0 0 3rem 0;
+  padding: 0;
+  white-space: pre-line;
+  line-height: 1.2;
+}
+
+/* Remove margin from the last paragraph */
+.lyrics :deep(p:last-child) {
+  margin-bottom: 0;
+}
+
+/* Style for solo/choir indicators */
+.lyrics :deep(p:first-child) {
+  font-weight: bold;
+  margin-bottom: 1rem;
 }
 
 .performance {

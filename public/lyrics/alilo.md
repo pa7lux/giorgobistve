@@ -35,15 +35,27 @@ solo: alilo da oi alilo da a o
 choir:
 qristes makharobelni vart
 qristes shobas mogilotsavt
-oi alilo da ai alilo da aotsda khutsa dekembersa
+oi alilo da ai alilo da a
+
+otsda khutsa dekembersa
 qriste ishva betlemshina
-oi alilo da ai alilo da aangelozni ugaloben
+oi alilo da ai alilo da a
+
+angelozni ugaloben
 dideba maghalta shina
-oi alilo da ai alilo da aes rom mtsk'emsebma gaiges
+oi alilo da ai alilo da a
+
+es rom mtsk'emsebma gaiges
 mividnen da tak'vani stses
-oi alilo da ai alilo da achiti ghobeze shemojda
+oi alilo da ai alilo da a
+
+chiti ghobeze shemojda
 gasdzakhoda qristes shobas
-oi alilo da ai alilo da achven matkhovrebi aravart
+oi alilo da ai alilo da a
+
+chven matkhovrebi aravart
 shobis makharoblebi vart
-oi alilo da ai alilo da aotsda khutsa dekembersa
+oi alilo da ai alilo da a
+
+otsda khutsa dekembersa
 qriste ishva betlemshina
