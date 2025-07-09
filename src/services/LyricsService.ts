@@ -10,6 +10,7 @@ export interface Song {
   title: string;
   titleLatin: string;
   file: string;
+  description?: string;
   georgian?: string;
   transliteration?: string;
   performance?: string;

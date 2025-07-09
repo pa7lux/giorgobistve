@@ -23,7 +23,7 @@
         <ion-searchbar 
           v-model="searchQuery"
           placeholder="Search songs by title or lyrics..."
-          :debounce="300"
+          :debounce="150"
           @ionInput="handleSearch"
           show-clear-button="focus"
           class="custom-searchbar">
@@ -35,7 +35,7 @@
         <p>Searching through lyrics...</p>
       </div>
       
-      <div v-else-if="songs.length === 0 && allSongs.length === 0" class="ion-padding">
+      <div v-else-if="isLoadingInitial" class="ion-padding">
         Loading songs...
       </div>
       <div v-else-if="songs.length === 0 && searchQuery" class="ion-padding ion-text-center">
@@ -76,7 +76,8 @@ import {
   IonSpinner
 } from '@ionic/vue';
 import { moonOutline, sunnyOutline } from 'ionicons/icons';
-import { LyricsService, Song } from '@/services/LyricsService';
+import { Song } from '@/services/LyricsService';
+import { SearchService } from '@/services/SearchService';
 import { ThemeService } from '@/services/ThemeService';
 
 export default defineComponent({
@@ -97,22 +98,29 @@ export default defineComponent({
     IonSpinner,
   },
   setup() {
-    const lyricsService = new LyricsService();
+    const searchService = new SearchService();
     const songs = ref<Song[]>([]);
-    const allSongs = ref<Song[]>([]);
     const searchQuery = ref('');
     const isSearching = ref(false);
+    const isLoadingInitial = ref(true);
     const isDark = ref(document.documentElement.classList.contains('dark'));
 
     const loadSongs = async () => {
       console.log('Loading songs...');
       try {
-        const loadedSongs = await lyricsService.getSongList();
-        allSongs.value = loadedSongs;
-        songs.value = loadedSongs;
+        // Start preloading in background
+        searchService.preloadSongs().catch(error => {
+          console.error('Background preloading failed:', error);
+        });
+
+        // Get initial song list quickly
+        const initialSongs = await searchService.getAllSongs();
+        songs.value = initialSongs;
         console.log('Loaded songs:', songs.value);
       } catch (error) {
         console.error('Error loading songs:', error);
+      } finally {
+        isLoadingInitial.value = false;
       }
     };
 
@@ -120,43 +128,26 @@ export default defineComponent({
       const query = event.target.value.toLowerCase().trim();
       searchQuery.value = query;
       
+      // Don't show loading for empty searches
       if (!query) {
-        songs.value = allSongs.value;
+        const allSongs = await searchService.getAllSongs();
+        songs.value = allSongs;
         return;
       }
 
-      isSearching.value = true;
+      // Only show loading indicator if search service isn't ready yet
+      if (!searchService.isReady()) {
+        isSearching.value = true;
+      }
       
       try {
-        // First filter by title
-        const titleMatches = allSongs.value.filter(song => 
-          song.title.toLowerCase().includes(query) || 
-          song.titleLatin.toLowerCase().includes(query)
-        );
-
-        // Then search through lyrics content
-        const lyricsMatches = [];
-        for (const song of allSongs.value) {
-          try {
-            const fullSong = await lyricsService.getSong(song.id);
-            if (fullSong && !titleMatches.find(s => s.id === song.id)) {
-              const georgianText = fullSong.georgian?.toLowerCase() || '';
-              const transliterationText = fullSong.transliteration?.toLowerCase() || '';
-              
-              if (georgianText.includes(query) || transliterationText.includes(query)) {
-                lyricsMatches.push(song);
-              }
-            }
-          } catch (error) {
-            console.error(`Error searching in song ${song.id}:`, error);
-          }
-        }
-
-        // Combine results (title matches first, then lyrics matches)
-        songs.value = [...titleMatches, ...lyricsMatches];
+        const results = await searchService.search(query);
+        songs.value = results;
       } catch (error) {
         console.error('Error during search:', error);
-        songs.value = allSongs.value;
+        // Fallback to all songs on error
+        const allSongs = await searchService.getAllSongs();
+        songs.value = allSongs;
       } finally {
         isSearching.value = false;
       }
@@ -173,9 +164,9 @@ export default defineComponent({
 
     return {
       songs,
-      allSongs,
       searchQuery,
       isSearching,
+      isLoadingInitial,
       isDark,
       handleSearch,
       toggleTheme,
