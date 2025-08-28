@@ -2,17 +2,39 @@
 
 # Transliteration
 
-vardsa kitkhes
+Nanina
 
-egzom turfa
+( ' = pause)
+
+Bass:
+
+Na-ainina nanina
+
+Delodilo vorera na '
+
+Evo nainina
+
+Na-ani-ana-a
+
+N-anina na-nina
+
+De-elo vorerona
+
+Delodilo vorera na '
+
+Evo naini-ina e
+
+(solo) vardsa kitkhes
+
+(all) egzom turp'a
 
 raman shegkmna
 
-tanad pirad
+tanad_p'irad
 
-mik’virs radkhar
+(solo) mik’virs radkhar
 
-eklovani
+(all) eklovani
 
 povna sheni
 
