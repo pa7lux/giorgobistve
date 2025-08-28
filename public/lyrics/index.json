@@ -181,6 +181,13 @@
       "titleLatin": "Tsoli Gamididgulda",
       "description": "",
       "file": "tsoli_gamididgulda.md"
+    },
+    {
+      "id": "Nanina",
+      "title": "Nanina",
+      "titleLatin": "Nanina",
+      "description": "",
+      "file": "Nanina.md"
     }
   ]
 }
