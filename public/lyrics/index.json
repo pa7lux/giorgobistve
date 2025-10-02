@@ -195,6 +195,13 @@
       "titleLatin": "zesqvi muqre",
       "description": "",
       "file": "Zesqvi.md"
+    },
+    {
+      "id": "mival_guriashi_mara",
+      "title": "მივალ გურიაში მარა",
+      "titleLatin": "Mival Guriashi Mara",
+      "description": "",
+      "file": "mival_guriashi_mara.md"
     }
   ]
 }
