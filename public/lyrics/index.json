@@ -202,6 +202,13 @@
       "titleLatin": "Mival Guriashi Mara",
       "description": "",
       "file": "mival_guriashi_mara.md"
+    },
+    {
+      "id": "mival-guriashi-mara",
+      "title": "მივალ გურიაში მარა",
+      "titleLatin": "mival guriashi mara",
+      "description": "",
+      "file": "mival-guriashi-mara.md"
     }
   ]
 }
