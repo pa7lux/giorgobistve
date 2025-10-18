@@ -1,9 +1,9 @@
 # Georgian
 
-test
+test1
 
 # Transliteration
 
-test
+test1
 
 # Performance
