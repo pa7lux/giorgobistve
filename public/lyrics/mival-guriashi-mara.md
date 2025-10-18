@@ -30,6 +30,7 @@
 # Transliteration
 
 mival guriashi mara
+test
 sulma tsintsin geipara
 mivdie da ar dabrunda
 arts miigo grtamad(a) p’ara (da)
