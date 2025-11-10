@@ -8,11 +8,14 @@
 
 # Transliteration (ლათინური)
 
+## Old version:
+
 o o o o ou nana nana  
 ou nana skani tsoda   
 nanina
 
-New version:
+## New version:
+
 (solo) ...
 
 (all)
@@ -33,9 +36,4 @@ nanina :||
 
 # Performance
 
-<iframe width="315" height="560"
-src="https://www.youtube.com/embed/D1SUmoCwh2A"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+<iframe width="315" height="560"<br>src="https://www.youtube.com/embed/D1SUmoCwh2A"<br>title="YouTube video player"<br>frameborder="0"<br>allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"<br>allowfullscreen></iframe>
