@@ -209,6 +209,13 @@
       "titleLatin": "datvma lkhini",
       "description": "",
       "file": "sovet_zverei.md"
+    },
+    {
+      "id": "maglonia",
+      "title": "მაგლონია",
+      "titleLatin": "Maglonia",
+      "description": "",
+      "file": "maglonia.md"
     }
   ]
 }
