@@ -10,7 +10,8 @@ moitvia mezoblebi
 
 gareshenits bevri kh’avda
 
-tura, mela, kata, mglebi  
+tura, mela, kata, mglebi
+
 
 (rai de la
 
@@ -18,7 +19,8 @@ a adilo di aio dilo o iao ai diloi vo da
 
 oi i ooi i
 
-o dilo dela)  
+o dilo dela)
+
 
 uketesi maspindzloba (da)
 
@@ -26,7 +28,7 @@ unda vtqvat rom ar nakhula
 
 ra sasmeli ra sasmeli
 
-ra ik’o rom iq ar dmula  
+ra ik’o rom iq ar dmula
 
 gadakhres da sadghegrdzelo (da)
 
@@ -34,7 +36,7 @@ satvitaod gaachines
 
 samadlobels ...? (savses) svamdnen
 
-tsveti arvis shearchines  
+tsveti arvis shearchines
 
 gakhalisda datunia da
 
@@ -42,7 +44,7 @@ molkhebit rom skhvebits nakha
 
 tvisis bokhis maghal banit
 
-sup’rulits ki shemosdzakha  
+sup’rulits ki shemosdzakha
 
 gaotsebuls tamis stumrebs da
 
@@ -50,9 +52,9 @@ marto esets ar akmara
 
 gadmoakhta sup’ris tavze
 
-da lekurits dauara  
+da lekurits dauara
 
-(End)  
+(End)
 
 melakudam tashi dahkra da
 
@@ -60,7 +62,7 @@ amp’er chemo datunao
 
 rogor gshvedzis eg davluri
 
-malak’ebi da khtunvao  
+malak’ebi da khtunvao
 
 mashin mgelma tsaschurchula
 
@@ -68,7 +70,7 @@ melav tk’uils nu ambobo
 
 sasatsilod dadzundzulebs
 
-da shen magre rad amkobo  
+da shen magre rad amkobo
 
 magram melam upasukha
 
@@ -76,7 +78,7 @@ brik’vi khar da sulelio
 
 rad davedzeb magis tamashs
 
-me skhva rames movelio  
+me skhva rames movelio
 
 movutsoneb iameba
 
