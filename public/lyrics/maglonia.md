@@ -1,5 +1,4 @@
 # Georgian
-
 (Megrelian)
 
 მაგლონიას ქეშეფხვადი
@@ -7,7 +6,7 @@
 მუშ მასკვამა მუშ მაჯგირა
 გენია დაჩხირიში ჭვილი.  
  
-  ||: დილა ვოდელია და, ნანინა,
+||: დილა ვოდელია და, ნანინა,
 დელიოვ ნანა ნანი ნანინა,
 ოუვ ნანა, ნანიეუ, ნაი ნი ნა,
 დელიოვ ნანა, ნანინა, და. :||  
@@ -43,14 +42,14 @@
 დელიოვ ნანა, ნანინა, და. :||
 
 # Transliteration
-(Megrelian) test1
+(Megrelian) test2
 
-  maglonias keshepkhvadi
+maglonias keshepkhvadi
 nana mu j(ჷ)giri var(ჷ)di bdziri,
 mush mask’vama mush majgira
 genia dachkhirishi ch’vili.  
- 
-  ||: (solo) dila vodelia da, (all) nanina,
+
+||: (solo) dila vodelia da, (all) nanina,
 deliov nana nani nanina,
 ouv nana, nanieu, nai ni na,
 deliov nana, nanina, da. :||  
