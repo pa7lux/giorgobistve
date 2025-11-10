@@ -10,8 +10,7 @@ moitvia mezoblebi
 
 gareshenits bevri kh’avda
 
-tura, mela, kata, mglebi
-
+tura, mela, kata, mglebi\
 
 (rai de la
 
@@ -19,8 +18,7 @@ a adilo di aio dilo o iao ai diloi vo da
 
 oi i ooi i
 
-o dilo dela)
-
+o dilo dela)\
 
 uketesi maspindzloba (da)
 
