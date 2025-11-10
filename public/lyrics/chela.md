@@ -8,13 +8,13 @@
 
 # Transliteration (ლათინური)
 
-## Old version:
+**Old version:**
 
 o o o o ou nana nana  
 ou nana skani tsoda   
 nanina
 
-## New version:
+**New version:**
 
 (solo) ...
 
