@@ -6,7 +6,7 @@
 datvma lkhini gadikhada (da)
 moitvia mezoblebi 
 gareshenits bevri kh’avda
-tura, mela, kata, mglebi 
+tura, mela, kata, mglebi
 
 (rai de la
 a adilo di aio dilo o iao ai diloi vo da
@@ -31,7 +31,7 @@ sup’rulits ki shemosdzakha
 gaotsebuls tamis stumrebs da
 marto esets ar akmara 
 gadmoakhta sup’ris tavze 
-da lekurits dauara 
+da lekurits dauara
 
 (End)
 
@@ -43,12 +43,12 @@ malak’ebi da khtunvao
 mashin mgelma tsaschurchula
 melav tk’uils nu ambobo 
 sasatsilod dadzundzulebs
-da shen magre rad amkobo 
+da shen magre rad amkobo
 
 magram melam upasukha 
 brik’vi khar da sulelio 
 rad davedzeb magis tamashs 
-me skhva rames movelio 
+me skhva rames movelio
 
 movutsoneb iameba
 gabrik’vdeba am qebito 
@@ -58,3 +58,12 @@ vakhdhmadats aq davrchebito
 # Performance
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ojt3-t8OuLk?si=zzrYqoSYhFrTGrS-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/h5jpQUah4q8"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
