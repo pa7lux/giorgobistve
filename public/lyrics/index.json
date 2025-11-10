@@ -202,6 +202,13 @@
       "titleLatin": "mival guriashi mara",
       "description": "",
       "file": "mival-guriashi-mara.md"
+    },
+    {
+      "id": "sovet_zverei",
+      "title": "datvma lkhini",
+      "titleLatin": "datvma lkhini",
+      "description": "",
+      "file": "sovet_zverei.md"
     }
   ]
 }
