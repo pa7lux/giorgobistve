@@ -216,6 +216,13 @@
       "titleLatin": "Maglonia",
       "description": "",
       "file": "maglonia.md"
+    },
+    {
+      "id": "ase_chonguri",
+      "title": "ასე ჩონგური",
+      "titleLatin": "Ase Chonguri",
+      "description": "",
+      "file": "ase_chonguri.md"
     }
   ]
 }
