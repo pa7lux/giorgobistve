@@ -15,7 +15,7 @@ o dilo dela)
 
 uketesi maspindzloba (da)
 unda vtqvat rom ar nakhula
-ra sasmeli ra sasmeli 
+ra sachmeli ra sasmeli 
 ra ik’o rom iq ar dmula
 
 gadakhres da sadghegrdzelo (da)
@@ -59,11 +59,4 @@ vakhdhmadats aq davrchebito
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ojt3-t8OuLk?si=zzrYqoSYhFrTGrS-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br>
-
-<iframe width="315" height="560"
-src="https://www.youtube.com/embed/h5jpQUah4q8"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+<iframe width="315" height="560"<br>src="https://www.youtube.com/embed/h5jpQUah4q8"<br>title="YouTube video player"<br>frameborder="0"<br>allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"<br>allowfullscreen></iframe>
