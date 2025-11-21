@@ -7,6 +7,8 @@
 ზესქვი უჩა, კუდელ(ი) ფიჩა ანწ ვაულო სქანი ყუჩა?
 ნანინეი და ჰე,
 ამ სერც სქანდა მეურქუ დო ნორჩალისი სო დომირჩა?
+ნანინეი და ჰე,
+ზესქვი მუქრე მუგაწყინუს? მომკარირე გამზარხული,
 ნანინეი და ჰე.
 
 # Transliteration
@@ -15,9 +17,11 @@ zesqvi muqre mogatsq’inus? momkarire gamzarxuli
 naninei da he.
 farfaliash chofuat, ixarebu sqani guri
 naninei da he.
-zesqvi ouch, kudel ficha ans vaulo sqani yucha
+zesqvi ouch, kudel ficha ans vaulo sqani kyucha
 naninie da he.
 am sera sqanda meurqudo nonchalisi so domircha?
+naninei da he.
+zesqvi muqre mogatsq’inus? momkarire gamzarxuli
 naninei da he.
 
 # Performance
