@@ -223,6 +223,13 @@
       "titleLatin": "Ase Chonguri",
       "description": "",
       "file": "ase_chonguri.md"
+    },
+    {
+      "id": "aketuri_alilo",
+      "title": "აკეთური ალილო",
+      "titleLatin": "Aketuri Alilo",
+      "description": "",
+      "file": "aketuri_alilo.md"
     }
   ]
 }
