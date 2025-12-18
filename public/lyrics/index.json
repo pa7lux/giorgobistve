@@ -230,6 +230,13 @@
       "titleLatin": "Aketuri Alilo",
       "description": "",
       "file": "aketuri_alilo.md"
+    },
+    {
+      "id": "alilosa",
+      "title": "ალილოსა",
+      "titleLatin": "Alilosa Svanuri",
+      "description": "",
+      "file": "alilosa.md"
     }
   ]
 }
