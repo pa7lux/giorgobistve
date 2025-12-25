@@ -4,7 +4,7 @@
 
 ალილოო და
 
-შობის მახარობელნი ვართ 
+შობის მახარობელნი ვართ
 
 ქრისტეს შობას მოგილოცავთ და
 
@@ -40,7 +40,7 @@
 
 ალილოო და
 
-ოცდა ხუთსა დეკემბერსა 
+ოცდა ხუთსა დეკემბერსა
 
 ქრისტე იშვა ბეთლემსაო და
 
@@ -48,7 +48,7 @@
 
 ალილოო და
 
-ღმერთმა ყველას 
+ღმერთმა ყველას
 
 ღმერთმა ყვრლას გაგითენოთ
 
@@ -64,45 +64,37 @@ aliloo da
 
 shobis makharobelni vart qristes shobas mogilotsavt da
 
+Chorus:
+
 alilo da oi alilo da o
 
 aliloo da
 
 otsda khutsa dekembersa qriste ishva betlemsao da
 
-alilo da oi alilo da o
-
-aliloo da
+[Chorus]
 
 angelozni ugaloben dideba maghalta shina da
 
-alilo da oi alilo da o
-
-aliloo da
+[Chorus]
 
 es rom mtsk'emsebma gaiges mividnen da tak'vani stses mas
 
-alilo da oi alilo da o
-
-aliloo da
+[Chorus]
 
 varskvlavebi brtsk’invaleben
 
 anateben betlemsao da
 
-alilo da oi alilo da o
-
-aliloo da
+[Chorus]
 
 otsda khutsa dekembersa qriste ishva betlemsao da
 
-alilo da oi alilo da o
+[Chorus]
 
-aliloo da
+ghmertma k’velas
 
-ghmertma k’velas 
-
-ghmertma k’velas gagitenot 
+ghmertma k’velas gagitenot
 
 aka mshvidoba
 
