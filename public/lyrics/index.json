@@ -237,6 +237,13 @@
       "titleLatin": "Alilosa Svanuri",
       "description": "",
       "file": "alilosa.md"
+    },
+    {
+      "id": "alilo_megruli_2",
+      "title": "ალილო (მეგრული) 2",
+      "titleLatin": "Alilo Megruli 2",
+      "description": "",
+      "file": "alilo_megruli_2.md"
     }
   ]
 }
