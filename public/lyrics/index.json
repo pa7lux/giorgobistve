@@ -251,6 +251,13 @@
       "titleLatin": "Raodenta Qristes Mier",
       "description": "",
       "file": "raodenta_qristes_mier.md"
+    },
+    {
+      "id": "kakhuri_nana",
+      "title": " კახური ნანა",
+      "titleLatin": "Kakhuri Nana",
+      "description": "",
+      "file": "kakhuri_nana.md"
     }
   ]
 }
