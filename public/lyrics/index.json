@@ -244,6 +244,13 @@
       "titleLatin": "Alilo Megruli 2",
       "description": "",
       "file": "alilo_megruli_2.md"
+    },
+    {
+      "id": "raodenta_qristes_mier",
+      "title": "რაოდენთა ქრისტეს მიერ",
+      "titleLatin": "Raodenta Qristes Mier",
+      "description": "",
+      "file": "raodenta_qristes_mier.md"
     }
   ]
 }
