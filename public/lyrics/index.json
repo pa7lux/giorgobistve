@@ -265,6 +265,13 @@
       "titleLatin": "Lertsamisa Khesao",
       "description": "",
       "file": "lertsamisa_khesao.md"
+    },
+    {
+      "id": "arkhalale",
+      "title": "არხალალე",
+      "titleLatin": "Arkhalale",
+      "description": "",
+      "file": "arkhalale.md"
     }
   ]
 }
