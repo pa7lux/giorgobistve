@@ -21,9 +21,7 @@ tskho-ovre-ebis mimnitchebeli-i
 
 aghdga qriste mkvdretit  
 sikvdilita sikvdilisa-a da-amtrgu-unve-eli  
-da sapla-a, vebis shina-ata
-
-(Optional) PAUSE
+da sapla-a, vebis shina-ata (Optional) PAUSE
 tskho-ovre-ebis mimnitchebeli-i
 
 # Performance
