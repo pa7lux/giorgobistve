@@ -279,6 +279,13 @@
       "titleLatin": "Acharuli Gandagana",
       "description": "",
       "file": "acharuli_gandagana.md"
+    },
+    {
+      "id": "sharatin",
+      "title": "შარათინ",
+      "titleLatin": "Sharatin",
+      "description": "",
+      "file": "sharatin.md"
     }
   ]
 }
