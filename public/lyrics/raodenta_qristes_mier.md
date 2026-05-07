@@ -10,13 +10,17 @@ Qriste segvimosies aliluia
 
 [Repeat Chorus]
 
-Raodenta qristes mier natel gvirebies
+*Recitative: *Raodenta qristes mier natel 
 
-Qriste segvimosies aliluia
+Gvirebies qriste segvimosies aliluia
 
-Dideba mamasa dadzesa daysmidasa sulsa
+*Recitative: *Dideba mamasa dadzesa 
 
-Ats da maradis da ukuniti ukunisamde amin
+datsmidasa sulsa
+
+*Recitative: *Ats da maradis da ukuniti 
+
+ukunisamde amin
 
 Qriste segvimosies aliluia
 
