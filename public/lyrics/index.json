@@ -272,6 +272,13 @@
       "titleLatin": "Arkhalale",
       "description": "",
       "file": "arkhalale.md"
+    },
+    {
+      "id": "acharuli_gandagana",
+      "title": "აჭარული განდაგანა",
+      "titleLatin": "Acharuli Gandagana",
+      "description": "",
+      "file": "acharuli_gandagana.md"
     }
   ]
 }
