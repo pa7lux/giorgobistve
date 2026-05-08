@@ -8,13 +8,13 @@
 
 # Transliteration (ლათინური)
 
-## Old version:
+**Old version:**
 
 o o o o ou nana nana  
 ou nana skani tsoda   
 nanina
 
-## New version:
+**New version:**
 
 (solo) ...
 
@@ -26,7 +26,7 @@ nanina :||
 (trio)
 si uchonchkhe, si ugure 
 ou nana skani tsoda nanina
-si kiseri elap’iri 
+si kiseri el**я**p’iri 
 ou nana skani tsoda nanina
 
 (all)
