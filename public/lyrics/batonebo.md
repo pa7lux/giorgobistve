@@ -5,24 +5,28 @@
 ბატონებო მოუოხეთ  
 მოუოხეთ ბატონებო (2)  
 ლამაზი ბატონებია  
-იადავარდი ფენია (2)  
+იადავარდი ფენია (2)
 
 თეთრი ცხვარი და თხის ჯოგი  
 მორბის თიქანმა იხთუნა (2)  
 გაუხარდა ბატონებსა  
-და უკან პირი იბრუნა (2)  
+და უკან პირი იბრუნა (2)
 
 # Transliteration (ლათინური)
 
 batonebo mouokhet  
 mouokhet batone-ebo (2)  
 lamazi batonebia  
-iadavardi p'enia (2)  
+iadavardi p'enia (2)
 
 tetri tskhvari da tkhis jogi  
 morbis tiqanma ikhtu-una (2)  
 gaukharda batonebsa  
-da ukan piri ibruna (2)  
+da ukan piri ibruna (2)
+
+  batonebo mouokhet  
+
+mouokhet batone-ebo (2)
 
 # Performance
 
