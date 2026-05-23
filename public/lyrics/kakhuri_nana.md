@@ -5,17 +5,13 @@
 (solo) nani nana, vardo nana,
 
 Naninai nana, vardo nana,
-
 nanas get'q'vi,
-
 daidzine pat'ara.
 
 (Solo) agre t'kbilad, udardelad
 
 ram dagadzinao.
-
 nanas get'q'vi,
-
 daidzine pat'ara.
 
 # Performance
