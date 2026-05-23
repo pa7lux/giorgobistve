@@ -2,11 +2,11 @@
 
 (არალალე არხალალე)
 არალალი არულალო
-არალალი არულალო. 
+არალალი არულალო.
 
 (არცა გამზარდა&nbsp;დედამა)
 არცა გამზარდა დედამა, 
-არალალი არულალო 
+არალალი არულალო
 
 (არც არაფერი მამამა)
 არც არაფერი მამამა
@@ -27,39 +27,27 @@
 # Transliteration
 
 (aralale arkhalale)
-
 aralali arulalo
-
 aralali arulalo
 
 (artsa gamzarda dedama)
-
 artsa gamzarda dedama
-
 aralali arulalo
 
 (arts arap’eri mamama)
-
 arts arap’eri mamama
-
 aralali arulalo
 
 (mimdgamdnen kedlis dzirasa)
-
 mimdgamdnen kedlis dzirasa
-
 aralali arulalo
 
 (shorit metk’odnen nanasa)
-
 shorit metk’odnen nanasa
-
 aralali arulalo
 
 (aralalе arkhalale)
-
 aralali arulalo
-
 aralali arulalo
 
 # Performance
