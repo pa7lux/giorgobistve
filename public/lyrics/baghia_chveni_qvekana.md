@@ -3,23 +3,16 @@
 # Transliteration
 
 baghia chveni qvek’ana
-
 mivalt da migvikharia
-
 vints baghshi k’vavilebs uvlis
-
 is chveni megobaria
 
 &nbsp;
 
 Chorus:
-
 dila vodela da
-
 abadela nanina
-
 vodilo ivoi
-
 dila vodela abadela da
 
 &nbsp;
@@ -27,11 +20,8 @@ dila vodela abadela da
 &nbsp;
 
 chveni samshoblos sazghvarze
-
 khan dari khan avdaria
-
 vints qvek’nad itsavs mshvidobas
-
 is chveni megobaria
 
 &nbsp;
@@ -41,11 +31,8 @@ is chveni megobaria
 &nbsp;
 
 chveni samshoblos gmirebi
-
 artsivze maghla mdgaria
-
 vints brdzolebs ar ushordeba
-
 is chveni megobaria chveni
 
 &nbsp;
