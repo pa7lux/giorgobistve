@@ -307,6 +307,13 @@
       "titleLatin": "Natvra",
       "description": "",
       "file": "natvra.md"
+    },
+    {
+      "id": "dila",
+      "title": "დილა",
+      "titleLatin": "Dila",
+      "description": "",
+      "file": "dila.md"
     }
   ]
 }
