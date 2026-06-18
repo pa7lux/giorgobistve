@@ -27,3 +27,5 @@ Davasrule-e natvra chemi da amit guli da-aviame da-a... (x5) (x5)
 o-o... (x5) (x5) vdi-i... (x5) (x5) di-ila ovdela vna na /na da-a... (x5) (x5)
 
 # Performance
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2102015859&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>S.Gordela · ნატვრა.wav
