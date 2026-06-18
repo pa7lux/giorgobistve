@@ -293,6 +293,13 @@
       "titleLatin": "Marebeli",
       "description": "",
       "file": "marebeli.md"
+    },
+    {
+      "id": "baghia_chveni_qvekana",
+      "title": "ბაღია ჩვენი ქვეყანა",
+      "titleLatin": "Baghia Chveni Qvekana",
+      "description": "",
+      "file": "baghia_chveni_qvekana.md"
     }
   ]
 }
