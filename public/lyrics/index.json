@@ -300,6 +300,13 @@
       "titleLatin": "Baghia Chveni Qvekana",
       "description": "",
       "file": "baghia_chveni_qvekana.md"
+    },
+    {
+      "id": "natvra",
+      "title": "ნატვრა",
+      "titleLatin": "Natvra",
+      "description": "",
+      "file": "natvra.md"
     }
   ]
 }
