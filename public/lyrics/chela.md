@@ -8,6 +8,8 @@
 
 # Transliteration (ლათინური)
 
+
+
 **Old version:**
 
 o o o o ou nana nana  
@@ -16,7 +18,10 @@ nanina
 
 **New version:**
 
-(solo) ...
+(solo) asho chela isho buska 
+ou nana ou nana naanina 
+simonobas gegap’ili 
+ou nana skanitsoda naanina
 
 (all)
 ||: o-o-o-o ou nana nana  
