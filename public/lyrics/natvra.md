@@ -20,7 +20,7 @@ Silamaze-e tamarisa da shotas nichi mtsadia me da-a... (x5) (x5)
 o-o... (x5) de-eli ovdela di-ila ovdela vna na /na da-a... (x5) (x5)
 
 Erti vinme-e ta-arieli-is msgavsi satrpo m’qavdes sadme da-a... (x5) (x5)
-Davasrule-e natvra chemi da amit guli da-aviame da-a... (x5) (x5)
+Davasrule-e natvra chemi da amit guli daviame da-a... (x5) (x5)
 
 [Chorus]
 [Last line of chorus]:
