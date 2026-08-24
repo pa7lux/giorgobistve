@@ -28,14 +28,19 @@ rerosha rasha sai
 2. sa-i vo-i rirerasha  
 rerosha rasha  
 khelghvazhale tetna-m kojas  
-rerosha rasha sai  
+rerosha rasha sai
 
 3. sa-i vo-i rirerasha  
+rerosha rasha  
+khelghvazhale letladaghe
+rerosha rasha sai
+
+5. sa-i vo-i rirerasha  
 rerosha rasha  
 chukan tkherol kho-x'-l-p-nekh  
 rerosha rasha sai  
 
-4. sai voi rirerasha  
+6. sai voi rirerasha  
 rerosha rasha  
 dala kojas khelghvazhale  
 rerosha rasha sai
