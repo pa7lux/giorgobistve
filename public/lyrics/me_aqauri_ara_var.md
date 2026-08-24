@@ -20,6 +20,8 @@
 ო-რერო რა-ნინა (2)  
 
 # Transliteration (ლათინური)
+(aka Imeruli Sakhumaro)
+
 
 me aqauri ara var  
 gaghmeli var sachineli   
